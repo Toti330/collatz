@@ -6,7 +6,7 @@ Welcome to the Collatz Conjecture website! This project visualizes the Collatz C
 
 The site is a live interactive demonstration of the Collatz Conjecture. You can explore how the conjecture works by entering a number and observing its progression until it reaches 1.
 
-Click [here](toti330.github.io/collatz) to view the website.
+Click [here](https://toti330.github.io/collatz) to view the website.
 
 ## License
 
